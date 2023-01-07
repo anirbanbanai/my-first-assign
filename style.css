@@ -136,13 +136,16 @@
 /* section last */
 .sec6-head {
     font-size: 45px;
+    
 }
 
 .sec6-style {
     display: flex;
     gap: 100px;
-    background-color:bisque;
+    background-color:rgb(175, 126, 66);
     padding: 120px 200px;
+    max-width: 1300px;
+    height: 400px;
 }
 
 .my-email {
@@ -150,4 +153,14 @@
     border: 0;
     width: 100%;
     padding: 18px 30px;
+}
+.last-section{
+   padding-left: 100px;
+   padding-right: 200px;
+}
+.my-font-change{
+    font-size: 20px;
+}
+.last-div{
+    padding-right: 200px;
 }
