@@ -1,0 +1,112 @@
+* {}
+
+.sec1 {
+    max-width: 1600px;
+
+}
+
+.div-1 {
+    background-image: url("images/banner/banner1.png");
+    height: 800px;
+    max-width: 1600px;
+    justify-content: center;
+
+
+}
+
+.sec1 {
+    font-size: 25px;
+    align-items: center;
+}
+
+.btn-dd {
+    background-color: orange;
+    font-size: 15px;
+    padding: 10px 15px;
+}
+
+/* section2 */
+.sec2 {
+    margin-left: 210px;
+    max-width: 560px;
+    max-height: 700px;
+    display: flex;
+    gap: 90px;
+    background-color: antiquewhite;
+    margin-top: 50px;
+}
+
+.sec2-div2 {
+    font-size: 20px;
+
+}
+
+.sec2-div1 {
+    margin-right: 380px;
+}
+
+.my-font {
+    font-size: 40px;
+}
+
+/* section3 */
+.sec3-main {
+    max-width: 1150px;
+    max-height: 300px;
+    margin: 230px;
+    justify-content: center;
+}
+
+.sec3-div1 {
+    display: flex;
+    margin-left: 220px;
+    margin-top: 50px;
+}
+.sec3{
+    width: 220px;
+    height: 200px;
+}
+.sec3-header{
+    text-align: center;
+    font-size:40px ;
+    margin-left: 700;
+    margin-right: 700;
+}
+/* section4 */
+.sec4-gradient{ 
+  max-width: 1140px ;
+  height: 300px;
+  margin-left: 230px;
+    background-image: url("images/gradient1.png");
+}
+.gradient{
+    font-size: 35px;
+    text-align: left
+    ;
+    padding-top: 30px;
+    padding-left: 20px;
+
+}
+.btn-ddd{
+   font-size: 20px;
+   padding: 10px 15px;
+   background-color: orange;
+  
+
+}
+/* section last */
+.sec6-head{
+    font-size: 45px;
+}
+.sec6-style{
+    display: flex;
+    gap: 100px;
+    background-color: beige;
+    padding: 120px 200px;
+}
+.my-email{
+    margin-bottom: 24px;
+    border: 0;
+    width: 100%;
+    padding: 18px 30px;
+}
