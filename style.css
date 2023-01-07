@@ -8,14 +8,26 @@
 }
 
 .div-1 {
-    background-image: url("images/banner/banner1.png");
-    height: 800px;
+    background-image: url("images/banner/banner3.png");
+    height: 600px;
     max-width: 1600px;
     justify-content: center;
+    padding-top: 200px;
+    padding-right: 700px;
+    padding-left: 100px;
+    color:black;
 
 
 }
-
+.sec1-1122{
+    font-size: 55px;
+    font-weight: 800;
+    
+}
+#sxsx{
+    font-size: 23px;
+    color:black;
+}
 .sec1 {
     font-size: 25px;
     align-items: center;
@@ -23,7 +35,8 @@
 
 .btn-dd {
     background-color: orange;
-    font-size: 15px;
+    font-size: 25px;
+    font-weight: 700;
     padding: 10px 15px;
 }
 
@@ -31,7 +44,7 @@
 .sec2 {
     margin-left: 210px;
     margin-bottom: 50px;
-    max-width: 700px;
+    max-width: 800px;
     max-height: 700px;
     display: flex;
     gap: 90px;
@@ -47,11 +60,13 @@
 
 .sec2-div1 {
     justify-content: right;
-    margin-left: 250px;
-    margin-bottom: 90px;
+    
     width: 350px;
     height: 400px;
     padding-bottom: 55px;
+    padding-left: 350px;
+    padding-right: 35px;
+
 }
 
 .my-font {
