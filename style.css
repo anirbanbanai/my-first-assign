@@ -1,4 +1,6 @@
-* {}
+* {
+    font-family: 'Open Sans', sans-serif;
+}
 
 .sec1 {
     max-width: 1600px;
@@ -41,16 +43,15 @@
 .sec2-div2 {
     font-size: 20px;
     margin-bottom: 20px
-
 }
 
 .sec2-div1 {
     justify-content: right;
     margin-left: 250px;
     margin-bottom: 90px;
- width: 350px;
- height: 400px;
- padding-bottom: 55px;
+    width: 350px;
+    height: 400px;
+    padding-bottom: 55px;
 }
 
 .my-font {
@@ -74,49 +75,62 @@
     margin-left: 220px;
     margin-top: 50px;
 }
-.sec3{
+
+.sec3 {
     width: 220px;
     height: 200px;
 }
-.sec3-header{
+
+.sec3-header {
     text-align: center;
-    font-size:40px ;
+    font-size: 40px;
     margin-left: 700;
     margin-right: 700;
 }
+
 /* section4 */
-.sec4-gradient{ 
-  max-width: 1140px ;
-  height: 300px;
-  margin-left: 230px;
-    background-image: url("images/gradient1.png");
+.sec4-gradient {
+    max-width: 1140px;
+    height: 300px;
+    margin-left: 230px;
+    background-image: linear-gradient(to right , rgba(111, 179, 142, 0.281),rgba(180, 175, 175, 0.815)),url("images/watch.png");
+
+   
+   
+
+
+
 }
-.gradient{
+
+.gradient {
     font-size: 35px;
-    text-align: left
-    ;
+    text-align: left;
     padding-top: 30px;
     padding-left: 20px;
 
 }
-.btn-ddd{
-   font-size: 20px;
-   padding: 10px 15px;
-   background-color: orange;
-  
+
+.btn-ddd {
+    font-size: 20px;
+    padding: 10px 15px;
+    background-color: orange;
+
 
 }
+
 /* section last */
-.sec6-head{
+.sec6-head {
     font-size: 45px;
 }
-.sec6-style{
+
+.sec6-style {
     display: flex;
     gap: 100px;
-    background-color: beige;
+    background-color:bisque;
     padding: 120px 200px;
 }
-.my-email{
+
+.my-email {
     margin-bottom: 24px;
     border: 0;
     width: 100%;
